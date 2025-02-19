@@ -7,7 +7,9 @@ Sistem Inventaris Barang
 Aplikasi ini dibuat menggunakan Flask untuk mengelola inventaris barang dengan fitur CRUD.
 
 ## Flowchart
-![Flowchart](Flowchart/flowchart.png)
+<p align="center">
+  <img src="Flowchart/flowchart.png" alt="Flowchart" width="500">
+</p>
 
 ## Link Youtube
 
