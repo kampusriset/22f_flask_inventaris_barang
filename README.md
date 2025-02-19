@@ -8,3 +8,8 @@ Aplikasi ini dibuat menggunakan Flask untuk mengelola inventaris barang dengan f
 
 ## Flowchart
 ![Flowchart](Flowchart/flowchart.png)
+
+## Link Youtube
+
+
+Jangan lupa Like dan Subscribe ya! :)
