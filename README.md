@@ -12,6 +12,5 @@ Aplikasi ini dibuat menggunakan Flask untuk mengelola inventaris barang dengan f
 </p>
 
 ## Link Youtube
-
-
+https://youtu.be/Sbawlv6atgM
 Jangan lupa Like dan Subscribe ya! :)
